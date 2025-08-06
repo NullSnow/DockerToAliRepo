@@ -17,5 +17,7 @@
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
 #nacos/nacos-server:v3.0.1
-openresty/openresty:1.27.1.2-3-alpine-fat
-
+#openresty/openresty:1.27.1.2-3-alpine-fat
+openjdk:17
+openjdk:11
+openjdk:8
