@@ -21,4 +21,5 @@
 #openjdk:17
 #openjdk:11
 #openjdk:8
-openjdk:17.0.2-jdk-slim
+#openjdk:17.0.2-jdk-slim
+louislam/uptime-kuma:1
