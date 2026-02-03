@@ -23,3 +23,6 @@
 #openjdk:8
 #openjdk:17.0.2-jdk-slim
 louislam/uptime-kuma:1
+metabase/metabase:latest
+postgres:15
+clickhouse/clickhouse-server:latest
