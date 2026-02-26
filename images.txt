@@ -28,3 +28,5 @@
 #clickhouse/clickhouse-server:latest
 calciumion/new-api:latest
 ubuntu:22.04
+debian:bookworm-slim@sha256:98f4b71de414932439ac6ac690d7060df1f27161073c5036a7553723881bffbe
+
