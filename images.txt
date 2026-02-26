@@ -27,3 +27,4 @@
 #postgres:15
 #clickhouse/clickhouse-server:latest
 calciumion/new-api:latest
+ubuntu:22.04
